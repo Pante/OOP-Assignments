@@ -7,8 +7,19 @@ using System.Threading.Tasks;
 namespace Week1Q2 {
     class Program {
         static void Main(string[] args) {
-            Console.Write("Enter a whole number: ");
-            int count = Int32.Parse(Console.ReadLine());
+
+            while(true) {
+                Console.Write("\nEnter a whole number: ");
+                int count = Int32.Parse(Console.ReadLine());
+
+                if(count < 0)
+                    break;
+
+                displayCal(count);
+            }
+        }
+
+        private static void displayCal(int count) {
             int answer = 1;
 
             if(count == 0) {
@@ -21,8 +32,6 @@ namespace Week1Q2 {
                 }
                 Console.Write("1 = " + answer);
             }
-
-            Console.ReadLine();
         }
     }
 }
