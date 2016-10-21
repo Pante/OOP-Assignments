@@ -1,0 +1,6 @@
+c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\bin\Debug\Q6.exe.config
+c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\bin\Debug\Q6.exe
+c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\bin\Debug\Q6.pdb
+c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\obj\Debug\Q6.csprojResolveAssemblyReference.cache
+c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\obj\Debug\Q6.exe
+c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\obj\Debug\Q6.pdb
