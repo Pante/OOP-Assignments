@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\bin\Debug\Week1Q1.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\bin\Debug\Week1Q1.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\bin\Debug\Week1Q1.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\obj\Debug\Week1Q1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\obj\Debug\Week1Q1.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\obj\Debug\Week1Q1.pdb
