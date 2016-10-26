@@ -1,0 +1,8 @@
+E:\OOP C# program\CostCalculator\CostCalculator\bin\Debug\CostCalculator.exe.config
+E:\OOP C# program\CostCalculator\CostCalculator\bin\Debug\CostCalculator.exe
+E:\OOP C# program\CostCalculator\CostCalculator\bin\Debug\CostCalculator.pdb
+E:\OOP C# program\CostCalculator\CostCalculator\obj\Debug\CostCalculator.exe
+E:\OOP C# program\CostCalculator\CostCalculator\obj\Debug\CostCalculator.pdb
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\CostCalculator\CostCalculator\bin\Debug\CostCalculator.exe.config
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\CostCalculator\CostCalculator\obj\Debug\CostCalculator.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\CostCalculator\CostCalculator\obj\Debug\CostCalculator.pdb
