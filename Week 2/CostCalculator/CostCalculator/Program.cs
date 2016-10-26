@@ -24,13 +24,13 @@ namespace CostCalculator
 
                 Console.Write("Try again? (y or n): ");
                 char again = Convert.ToChar(Console.ReadLine());
-                if (again == 'n');
+                if (again == 'n')
                 {
+                    Console.WriteLine("Press any key to exit.");
+                    Console.ReadKey();
                     break;
                 }
             }
-            Console.WriteLine("Press any key to exit.");
-            Console.ReadKey();
             
         }
 
@@ -41,7 +41,7 @@ namespace CostCalculator
             // 10% discount is given if no. of ticket is more than 5.
             if (numOfTicket > 5);
             {
-                totalCost = (100-10)/100 * totalCost;
+                totalCost = 0.9 * totalCost;
             }
 
             return totalCost;
