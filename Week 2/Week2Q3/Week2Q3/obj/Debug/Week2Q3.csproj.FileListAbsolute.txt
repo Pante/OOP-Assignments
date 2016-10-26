@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\Week2Q3\Week2Q3\bin\Debug\Week2Q3.exe.config
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\Week2Q3\Week2Q3\bin\Debug\Week2Q3.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\Week2Q3\Week2Q3\bin\Debug\Week2Q3.pdb
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\Week2Q3\Week2Q3\obj\Debug\Week2Q3.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\Week2Q3\Week2Q3\obj\Debug\Week2Q3.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 2\Week2Q3\Week2Q3\obj\Debug\Week2Q3.pdb
