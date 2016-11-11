@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace SalesEmployee {
     class SalesEmployee {
-        public int Id {get; set; }
-        public string Name { get; set; }
-        public double BasicSalary { get; set; }
-        public double Sales { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
+        public double basicSalary { get; set; }
+        public double sales { get; set; }
 
-        public SalesEmployee(int d, string n, double bSalary, double s) {
-            Id = d;
-            Name = n;
-            BasicSalary = bSalary;
-            Sales = s;
+        public SalesEmployee(int id, string name, double basicSalary, double sales) {
+            this.id = id;
+            this.name = name;
+            this.basicSalary = basicSalary;
+            this.sales = sales;
         }
 
         public double calculateCommission() {
-            return Sales * 0.05;
+            return sales * 0.05;
         }
 
         public double calculatePay() {
-            return BasicSalary + calculateCommission();
+            return basicSalary + calculateCommission();
         }
     }
 }

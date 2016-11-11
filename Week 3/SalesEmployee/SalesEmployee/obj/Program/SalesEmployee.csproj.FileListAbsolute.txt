@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\bin\Program\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\bin\Program\Program.pdb
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\obj\Program\Program.pdb
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\bin\Program\Program.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\obj\Program\SalesEmployee.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\obj\Program\Program.exe

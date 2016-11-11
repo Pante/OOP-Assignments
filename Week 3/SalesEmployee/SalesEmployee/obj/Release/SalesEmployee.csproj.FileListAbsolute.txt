@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\bin\Release\SalesEmployee.dll
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\bin\Release\SalesEmployee.pdb
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\obj\Release\SalesEmployee.dll
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 3\SalesEmployee\SalesEmployee\obj\Release\SalesEmployee.pdb
