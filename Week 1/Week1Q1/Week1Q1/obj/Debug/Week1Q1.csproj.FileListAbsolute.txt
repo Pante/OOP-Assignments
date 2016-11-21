@@ -4,3 +4,6 @@
 \\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\obj\Debug\Week1Q1.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\obj\Debug\Week1Q1.exe
 \\Mac\Home\Documents\Visual Studio 2015\Projects\Week1Q1\Week1Q1\obj\Debug\Week1Q1.pdb
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q1\Week1Q1\bin\Debug\Week1Q1.exe.config
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q1\Week1Q1\obj\Debug\Week1Q1.exe
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q1\Week1Q1\obj\Debug\Week1Q1.pdb

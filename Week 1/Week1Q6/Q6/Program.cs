@@ -73,7 +73,7 @@ namespace Q6 {
         public void displayAll() {
             Console.WriteLine("No.  Name. ");
             foreach (string student in students) {
-                Console.WriteLine(students.IndexOf(student) + "    " + student);
+                Console.WriteLine((students.IndexOf(student) + 1) + "    " + student);
             }
         }
 

@@ -4,3 +4,6 @@ c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\bin\Debug\Q6.pdb
 c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\obj\Debug\Q6.csprojResolveAssemblyReference.cache
 c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\obj\Debug\Q6.exe
 c:\users\npstudent\documents\visual studio 2015\Projects\Q6\Q6\obj\Debug\Q6.pdb
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q6\Q6\bin\Debug\Q6.exe.config
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q6\Q6\obj\Debug\Q6.exe
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q6\Q6\obj\Debug\Q6.pdb

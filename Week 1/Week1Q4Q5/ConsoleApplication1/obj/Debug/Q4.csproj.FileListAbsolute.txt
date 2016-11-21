@@ -4,3 +4,6 @@ c:\users\npstudent\documents\visual studio 2015\Projects\ConsoleApplication1\Con
 c:\users\npstudent\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Q4.csprojResolveAssemblyReference.cache
 c:\users\npstudent\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\npstudent\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q4Q5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q4Q5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 1\Week1Q4Q5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
