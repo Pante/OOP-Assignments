@@ -1,0 +1,6 @@
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 4\PokemonApp_S10172190\PokemonApp_S10172190\bin\Debug\PokemonApp_S10172190.exe.config
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 4\PokemonApp_S10172190\PokemonApp_S10172190\bin\Debug\PokemonApp_S10172190.exe
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 4\PokemonApp_S10172190\PokemonApp_S10172190\bin\Debug\PokemonApp_S10172190.pdb
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 4\PokemonApp_S10172190\PokemonApp_S10172190\obj\Debug\PokemonApp_S10172190.csprojResolveAssemblyReference.cache
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 4\PokemonApp_S10172190\PokemonApp_S10172190\obj\Debug\PokemonApp_S10172190.exe
+C:\Users\NPStudent\Documents\Visual Studio 2015\Projects\OOP-Assignments\Week 4\PokemonApp_S10172190\PokemonApp_S10172190\obj\Debug\PokemonApp_S10172190.pdb
