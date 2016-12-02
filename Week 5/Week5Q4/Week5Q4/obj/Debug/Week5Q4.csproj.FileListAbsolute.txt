@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\bin\Debug\Week5Q4.exe.config
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\bin\Debug\Week5Q4.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\bin\Debug\Week5Q4.pdb
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\App.g.cs
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\Week5Q4_MarkupCompile.cache
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\Week5Q4_MarkupCompile.lref
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\Week5Q4.g.resources
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\Week5Q4.Properties.Resources.resources
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\Week5Q4.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\Week5Q4.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 5\Week5Q4\Week5Q4\obj\Debug\Week5Q4.pdb
