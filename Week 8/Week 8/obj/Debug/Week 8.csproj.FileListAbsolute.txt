@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 8\Week 8\bin\Debug\Week 8.exe.config
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 8\Week 8\bin\Debug\Week 8.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 8\Week 8\bin\Debug\Week 8.pdb
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 8\Week 8\obj\Debug\Week 8.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 8\Week 8\obj\Debug\Week 8.exe
+\\Mac\Home\Documents\School\Year 1.2\OOP\C#\Week 8\Week 8\obj\Debug\Week 8.pdb
